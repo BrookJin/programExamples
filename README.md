@@ -1,4 +1,4 @@
-# programExamples
+# Terminal
 SimpleShell
 
 This simple shell similar to Linux/Unix shell 
